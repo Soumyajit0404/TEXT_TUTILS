@@ -5,3 +5,4 @@ it uses django framework, html, css, bootstrap
 you can analyse your text here!
 ,.,..,.
 .,.l,mhhm
+khvnbmv
